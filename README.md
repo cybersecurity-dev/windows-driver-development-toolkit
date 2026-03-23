@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <a href="https://learn.microsoft.com/sysinternals/resources/windows-internals">
+    <a href="https://github.com/cybersecurity-dev/awesome-windows-driver-development">
       <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
     </a>
   </p>

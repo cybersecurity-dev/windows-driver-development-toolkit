@@ -16,7 +16,7 @@ ishikawa-beta
             Verify kit compatibility
             Configure source repository
 
-        Phase 2 - Test Infrastructure
+        Phase 2 - Test<br/>Infrastructure
             Create isolated test VM
             Configure test signing
             Configure debug transport
@@ -24,7 +24,7 @@ ishikawa-beta
             Create clean snapshots
             Prepare recovery procedure
 
-        Phase 3 - Driver Project
+        Phase 3 - Driver<br/>Project
             Select driver template
             Select KMDF UMDF or WDM
             Configure target architecture
@@ -32,7 +32,7 @@ ishikawa-beta
             Add WDK headers
             Add driver libraries
 
-        Phase 4 - Build Tools
+        Phase 4 - Build<br/>Tools
             Configure MSBuild
             Compile source files
             Link SYS binary
@@ -40,7 +40,7 @@ ishikawa-beta
             Generate PDB symbols
             Preserve reproducible artifacts
 
-        Phase 5 - Package Tools
+        Phase 5 - Package<br/>Tools
             Create INF file
             Validate hardware IDs
             Validate service configuration
@@ -48,7 +48,7 @@ ishikawa-beta
             Apply test signature
             Assemble deployable package
 
-        Phase 6 - Static Verification
+        Phase 6 - Static<br/>Verification
             Use compiler warnings
             Run code analysis
             Apply SAL annotations
@@ -72,7 +72,7 @@ ishikawa-beta
             Set driver breakpoints
             Inspect modules and threads
 
-        Phase 9 - Kernel Diagnostics
+        Phase 9 - Kernel<br/>Diagnostics
             Inspect call stacks
             Inspect registers
             Inspect memory
@@ -96,7 +96,7 @@ ishikawa-beta
             Capture verifier failures
             Disable verifier safely
 
-        Phase 12 - Functional Testing
+        Phase 12 - Functional<br/>Testing
             Test successful requests
             Test invalid requests
             Test cancellation
@@ -104,7 +104,7 @@ ishikawa-beta
             Test concurrent access
             Test resource cleanup
 
-        Phase 13 - Lifecycle Testing
+        Phase 13 - Lifecycle<br/>Testing
             Test device installation
             Test device removal
             Test surprise removal

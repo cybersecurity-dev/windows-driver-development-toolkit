@@ -88,7 +88,7 @@ ishikawa-beta
             Preserve timestamps
             Export diagnostic evidence
 
-        Phase 11 - Driver Verifier
+        Phase 11 - Driver<br/>Verifier
             Select driver under test
             Select verification rules
             Restart target
@@ -128,6 +128,10 @@ ishikawa-beta
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
+## 📖 Contents
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ```mermaid
 treemap-beta
